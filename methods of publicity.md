@@ -1,3 +1,5 @@
+(harshil's file, does not include all ideas)
+
 - More collabs with clubs - indirect publicity
 - Posters
 - Slide slips in people's rooms (maybe too invasive)
