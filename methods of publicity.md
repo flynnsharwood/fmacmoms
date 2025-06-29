@@ -1,0 +1,8 @@
+- More collabs with clubs - indirect publicity
+- Posters
+- Slide slips in people's rooms (maybe too invasive)
+- more and better merch. non exclusive merch, but don't advertise the merch
+- screening of compilation of best short films
+- participation in fest. feels shitty but ppl will atleast know that the club isn't dead.
+	- We could have a stand which kind of has a story mode, and we upload the best run on yt. (again, don't advertise this, ask them at the end)
+	- For example it could be a kind of team vs team, or a battle royale style.
