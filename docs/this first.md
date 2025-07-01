@@ -1,5 +1,8 @@
 Important - [recent discussions fmac](/docs/supplementary stuff/recent discussions fmac)
 
+[Making innaug more engaging](https://docs.google.com/document/d/1M_YM8oaRmSlYgdSCRUuvd_43TG71Zfrq1YU4U3ANODI/edit?tab=t.0#heading=h.3bseozjgwj4a)
+
+
 Missing moms -
 - 24 batch sem 1 moms
 - 18/4/2025 mom
