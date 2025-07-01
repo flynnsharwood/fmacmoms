@@ -1,4 +1,4 @@
-Important - [recent discussions fmac][../supplementary stuff/recent discussions fmac]
+Important - [recent discussions fmac](../supplementary stuff/recent discussions fmac)
 
 Missing moms -
 - 24 batch sem 1 moms
