@@ -50,3 +50,8 @@ A list of gdocs that might be useful
 - [Making innaug more engaging](https://docs.google.com/document/d/1M_YM8oaRmSlYgdSCRUuvd_43TG71Zfrq1YU4U3ANODI/edit?usp=sharing)
 
 basically used docusaurus to make it easy to browse fmac moms.
+
+
+if you want to push changes AND update the site. 
+
+`git add . && git commit -m "too lazy to add message" && git push && npm run build && npm run deploy` 

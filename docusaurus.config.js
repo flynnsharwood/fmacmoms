@@ -53,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/flynnsharwood/fmacmoms',
+            'https://github.com/flynnsharwood/fmacmoms/tree/master',
         },
         blog: {
           showReadingTime: true,
@@ -64,7 +64,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/flynnsharwood/fmacmoms',
+            'hhttps://github.com/flynnsharwood/fmacmoms/tree/master',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
