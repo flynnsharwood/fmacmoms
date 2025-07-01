@@ -33,7 +33,7 @@
 }
 
 
-
+/* 
 @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
   
 :root {
@@ -42,9 +42,8 @@
 
 body {
     font-size: 16px !important;
-    /* font-family: "Courier New", monospace !important; */
-    /* background-color: #E8E7E3 !important;  */
-}
+
+} */
 
 
 .footer {
@@ -66,16 +65,16 @@ body {
 
 
 
-.markdown {
+/* .markdown {
     font-family: "Courier New", monospace !important;
     font-size: 20px !important;
-}
+} */
 
 /* , p, blockquote, li, table, th, td */
-
+/* 
 h1, h2, h3, h4, h5, h6 {
 font-family: "Courier New", monospace !important;
-}
+} */
 
 /* html, body, div, span, a, p, ul, li, code, pre {
 font-family: "Courier New", monospace !important;

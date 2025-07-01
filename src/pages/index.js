@@ -44,21 +44,21 @@ export default function Home() {
 
         <div style={{ textAlign: 'center' }}>
           <h1>
-            Moms
+            Fmac moms
             <br></br>
             <br></br>
-            <br></br>
-            <br></br>
+            {/* <br></br>
+            <br></br> */}
           </h1>
-          <hr></hr>
+          {/* <hr></hr> */}
 
            <Link
-             className="button button--secondary button--lg"
+             className="button button--primary button--lg"
              to="/docs/category/2324-batch">
              23 + 24 batch
            </Link>
 
-          <hr></hr>
+          {/* <hr></hr> */}
         </div>
       </main>
     </Layout>
