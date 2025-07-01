@@ -6,25 +6,265 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+--ifm-background-color: #fefefe;
+--ifm-color-primary: #cf8852;
+--ifm-color-primary-dark: #29784c;
+--ifm-color-primary-darker: #277148;
+--ifm-color-primary-darkest: #205d3b;
+--ifm-color-primary-light: #33925d;
+--ifm-color-primary-lighter: #359962;
+--ifm-color-primary-lightest: #3cad6e;
+/* --ifm-code-font-size-base: 26px; */
+--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
-
+  
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+--ifm-background-color: #3d3d3d;
+--ifm-color-primary: #d89968;
+--ifm-color-primary-dark: #21af90;
+--ifm-color-primary-darker: #1fa588;
+--ifm-color-primary-darkest: #1a8870;
+--ifm-color-primary-light: #29d5b0;
+--ifm-color-primary-lighter: #32d8b4;
+--ifm-color-primary-lightest: #4fddbf;
+/* --ifm-code-font-size-base: 16px; */
+--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+  
+:root {
+    --screenplay-font: 'Courier New', monospace;
+}
+
+body {
+    font-size: 16px !important;
+    /* font-family: "Courier New", monospace !important; */
+    /* background-color: #E8E7E3 !important;  */
+}
+
+
+.footer {
+    background-color: #2e2e2e !important; 
+    color: #525333 !important;  
+}
+
+
+/* Change footer link color
+  .footer a {
+    color: #25c2a0 !important; 
+}
+  
+  .footer a:hover {
+    color: #1a8870 !important; 
+} */
+  
+
+
+
+
+.markdown {
+    font-family: "Courier New", monospace !important;
+    font-size: 20px !important;
+}
+
+/* , p, blockquote, li, table, th, td */
+
+h1, h2, h3, h4, h5, h6 {
+font-family: "Courier New", monospace !important;
+}
+
+/* html, body, div, span, a, p, ul, li, code, pre {
+font-family: "Courier New", monospace !important;
+} */
+
+.screenplay {
+    font-family: var(--screenplay-font) !important;
+    --h1-font: var(--screenplay-font) !important;
+    --h2-font: var(--screenplay-font) !important;
+    --h3-font: var(--screenplay-font) !important;
+    --h4-font: var(--screenplay-font) !important;
+    --h5-font: var(--screenplay-font) !important;
+    --h6-font: var(--screenplay-font) !important;
+    font-size: 18pt;
+    --font-text: var(--screenplay-font);
+    line-height: 4;
+}
+
+.markdown h1 {
+    font-size: inherit;
+    text-transform: uppercase; 
+    font-weight: 600;
+    counter-increment: scene-counter;
+    position: relative;
+}
+
+.markdown h1::before {
+    content: counter(scene-counter);
+    font-weight: 600;
+    position: absolute;
+    right: 0;
+    text-align: right;
+}
+
+.markdown h2 {
+    font-size: inherit;
+    /* padding-left: 2.2in !important; */
+    text-align: center;
+    text-transform: uppercase;
+    /* margin-top: 0.2in; */
+}
+
+
+.markdown h4 {
+    text-align: right;
+    font-size: inherit;
+    font-weight: 600;
+}
+
+.markdown h3 {
+    /* padding-left: 1.5in !important;  */
+    font-size: inherit;
+    font-weight: normal;
+    text-align: center;
+}
+
+.markdown h5 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: inherit;
+    text-transform: uppercase;
+    /* display: inline-block; */
+    /* width: auto; */
+}
+
+.markdown .inline-title {
+    font-size: 17pt;
+    text-align: center !important;
+    width: 100% !important;
+    font-family: var(--h1-font);
+}
+
+.markdown mark {
+    background-color: transparent !important;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.markdown a {
+    font-family: inherit;
+    color: var(--ifm-font-color-base);
+    text-decoration-color: var(--ifm-color-primary);
+}
+
+/* Responsive styling for h2 + p and h3 + p */
+.markdown h2 + p, .markdown h3 + p {
+    padding-left: 2.5in;
+    max-width: 7in;
+    margin-bottom: 0.2in;
+}
+
+@media (max-width: 1200px) {
+    .markdown h2 + p, .markdown h3 + p {
+        padding-left: 1.5in;
+        max-width: 6in;
+    }
+    body{
+        font-size: 18px !important;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .markdown h2 + p, .markdown h3 + p {
+        padding-left: 1in;
+        max-width: 80%;
+        text-align: left;
+    }
+    body{
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .markdown h2 + p, .markdown h3 + p {
+        padding-left: 0.5in;
+        max-width: 95%;
+    }
+}
+
+@media print {
+    body {
+        font-size: 12pt !important;
+        --file-line-width: 8.5in !important;
+    }
+
+    .markdown h1 {
+        font-size: inherit;
+        text-transform: uppercase; 
+        font-weight: 600;
+    }
+
+    .markdown h2 {
+        font-size: inherit;
+        padding-left: 2.2in !important;
+        text-transform: uppercase;
+        margin-top: 0.2in;
+    }
+
+    .markdown h2 + p, .markdown h3 + p {
+        padding-left: 1.2in !important;
+        max-width: 5in !important;
+        margin-bottom: 0.2in;
+    }
+
+    .markdown h4 {
+        text-align: right;
+        font-size: inherit;
+        font-weight: 600;
+    }
+
+    .markdown h3 {
+        padding-left: 1.5in !important;
+        font-size: inherit;
+        font-weight: normal;
+    }
+
+    .markdown h5 {
+        /* padding-left: 2.5in !important; */
+        text-decoration: underline;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    hr {
+        break-after: page;
+        visibility: hidden;
+    }
+}
+
+
+.theme-doc-toc-desktop {
+    display: none !important;
+}
+    
+      
+.comment {
+    display: none;
+}
+
+/* Ensure ordered lists use standard numbering (1, 2, 3) */
+.markdown ol {
+    list-style-type: decimal !important;
+}
+
+/* .markdown li::marker {
+    content: "❧ ";
+    font-size: 0.5em;
+} */
+
+
+/* bullet characters - ❧,  */
