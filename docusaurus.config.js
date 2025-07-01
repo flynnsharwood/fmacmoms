@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Fmac moms',
   tagline: 'mommies assemble',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/fmac.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -86,7 +86,7 @@ const config = {
         title: 'Moms',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/fmac.png',
         },
         items: [
           {
