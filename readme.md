@@ -42,6 +42,8 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 These are mostly the moms for 24 batch meets, or 23+24 meets.
+The mom files are in /docs/23 + 24 batch/
+
 
 A list of gdocs that might be useful
 
