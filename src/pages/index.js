@@ -26,7 +26,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/23 + 24 batch">
+            to="/docs/category/2324-batch">
             23 + 24 batch
           </Link>
         </div>
