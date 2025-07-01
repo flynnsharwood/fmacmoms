@@ -152,6 +152,10 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      stylesheets: [
+        "/css/custom.css", // custom css
+        // "/src/css/screenplay.css", // screenplay css
+      ],
     }),
 };
 
