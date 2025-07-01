@@ -29,10 +29,10 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'flynnsharwood', // Usually your GitHub org/user name.
   projectName: 'fmacmoms', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
 
   // onBrokenLinks: 'throw',
   onBrokenLinks: 'warn',
-
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
