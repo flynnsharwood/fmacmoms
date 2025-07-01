@@ -22,7 +22,7 @@
 - Asking coords to reach out to goa campus for Music composition. It can be a convo starter and we might get to know about how they make their own ost for a few films as well. (abhinav bhaiya's suggestion)
 
 
-%%
+<!-- %%
 - pitch to coords about acting, sound design or music composition vertical
 	- for sound we can simply mention that we prefer them having interest or knowledge, in addition to whatever they bring for their vertical
 	- same for acting. If not a vertical, atleast check if they seem willing to act in films.
@@ -40,4 +40,4 @@
 - the results and feedback of the exposition competition. @Digant Fmac Solanki 
 - overall, none of this matters if we don't produce good movies or mini series consistently.
 
-%%
+%% -->
