@@ -36,8 +36,6 @@ import styles from './index.module.css';
 //   );
 // }
 
-import Link from '@docusaurus/Link';
-import Layout from '@theme/Layout';
 
 export default function Home() {
   return (
