@@ -1,0 +1,9 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "screenplay-settings@@screenplay-font": "Courier New",
+  "encore-settings@@encore-translucency-image": "\"\"",
+  "encore-settings@@encore-translucency-strength": 0.5,
+  "encore-settings@@encore-disable-grain": false,
+  "encore-settings@@encore-highlight-border": true,
+  "encore-settings@@encore-disable-logo-on-hr": true
+}
