@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4da89aa7ba11393a",
+        "id": "bc61f56e75c4972e",
         "type": "tabs",
         "children": [
           {
-            "id": "ec8e3c50ed222dff",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "empty",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "980d9f43ef93b3f9",
+            "id": "cfdcf57b879b91cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24 batch/2025-06-14 mom.md",
+                "file": "2. Publicity ideas compilation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-14 mom"
-            }
-          },
-          {
-            "id": "42181721239222a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "supplementary stuff/recent discussions fmac.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "recent discussions fmac"
-            }
-          },
-          {
-            "id": "82feeb9ed3411968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "23, 24 batch/2025-06-21 tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-21 tasks"
-            }
-          },
-          {
-            "id": "aed8ff2520a1aa6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Tasks to focus on.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0. Tasks to focus on"
+              "title": "2. Publicity ideas compilation"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,14 +164,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aed8ff2520a1aa6a",
+  "active": "cfdcf57b879b91cf",
   "lastOpenFiles": [
-    "supplementary stuff/recent discussions fmac.md",
+    "23, 24 batch/2025-07-03 mom.md",
+    "23, 24 batch/Pasted image 20250703225612.png",
+    "23, 24 batch/2025-06-21 tasks.md",
+    "0. this first.md",
     "0. Tasks to focus on.md",
+    "supplementary stuff/recent discussions fmac.md",
     "supplementary stuff/methods of publicity.md",
     "23, 24 batch/2025-06-09 mom.md",
-    "0. this first.md",
-    "23, 24 batch/2025-06-21 tasks.md",
     "2. Publicity ideas compilation.md",
     "23, 24 batch/2025-06-21 mom.md",
     "23, 24 batch/2025-06-09 mom ver2.md",
@@ -251,8 +198,6 @@
     "2. 23, 24 batch/2025-06-21 tasks.md",
     "2. 23, 24 batch/2025-06-21 mom.md",
     "2. 23, 24 batch/2025-06-21 mom conclusions.md",
-    "2. 23, 24 batch/2025-06-09 mom.md",
-    "2. 23, 24 batch/2025-02-09 mom.md",
     "2. 23, 24 batch",
     "1. 24 batch",
     "23, 24 batch/one-young-single-man-standing-alone-in-the-middle-of-a-crowded-street_hmtztmxs_thumbnail-1080_08-2111399992.png",
@@ -266,7 +211,6 @@
     "Attachments/Pasted image 20250506214845.png",
     "Attachments/Pasted image 20250506214811.png",
     "Attachments/Pasted image 20250506214800.png",
-    "Attachments/Pasted image 20250506214751.png",
     "Workshop.canvas",
     "Lists/An intro to me.canvas",
     "Archive/GenChem.canvas"
