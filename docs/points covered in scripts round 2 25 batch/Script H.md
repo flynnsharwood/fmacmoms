@@ -1,6 +1,6 @@
 **You must write a script based on the prompt below.**
 #### **First Teenager (Privileged, Troubled)**
-* [ ] Well-dressed in designer clothes
+* [x ] Well-dressed in designer clothes
 * [ ] Sitting in a plush armchair, visibly tense
 * [ ] Bruised from a recent fight (split lip, swollen cheek)
 * [ ] Irritable, rebellious, and emotionally isolated despite immense privilege
