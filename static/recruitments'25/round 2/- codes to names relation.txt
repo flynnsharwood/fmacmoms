@@ -1,0 +1,21 @@
+A -> aayushAgarwal
+B -> arunimaSharma
+C -> pratyakshMalpani
+D -> sachin
+E -> vihaanGoenka
+F -> abhinavan
+G -> ayushKumar
+H -> divyanshu
+I -> prathamShishir
+
+order 2
+pratyakshMalpani
+vihaanGoenka
+arunimaSharma
+prathamShishir
+divyanshu
+abhinavan
+sachin
+aayushAgarwal
+harshilDari
+ayushKumar

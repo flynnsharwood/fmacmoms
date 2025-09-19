@@ -161,6 +161,17 @@ const config = {
         "/css/custom.css", // custom css
         // "/src/css/screenplay.css", // screenplay css
       ],
+      plugins: [
+                [
+                  '@docusaurus/plugin-content-docs',
+                  {
+                    id: 'scripts',                // unique ID
+                    path: 'scripts',              // path to folder
+                    routeBasePath: 'scripts',     // URL route (/api/*)
+                    // sidebarPath: require.resolve('./sidebarsApi.js'), // custom sidebar
+                  },
+                ],
+              ],
     }),
 };
 
