@@ -1,3 +1,5 @@
+--h--
+
 - post mortems or some kind of pressure to get the ghost members a little bit more active
 - If ppl commit and then dip, mention it to seniors/coords. (aniket/mithilesh)
 - If someone gets the time, try to document knowledge for juniors. The few videos we get for recruitment task aren't enough. Neither is photowalk.

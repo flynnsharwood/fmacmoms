@@ -55,7 +55,7 @@ export default function Home() {
            <Link
              className="button button--primary button--lg"
              to="/docs/category/2324-batch">
-             23 + 24 batch
+             Moments of Meet List
            </Link>
 
           {/* <hr></hr> */}

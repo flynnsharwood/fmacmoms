@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "showUnsupportedFiles": true
 }
