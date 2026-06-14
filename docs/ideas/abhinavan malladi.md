@@ -18,3 +18,21 @@ During 1910s A British forest officer fell in love with a married Indian woman. 
 
 A random director approaches a "has been" actor and narrates him a banger story and gives him a second chance. And after that slowly the characters of the unproduced film start coming into the actor's life. And they start messing up his life really bad.
 At the end we show that it's just the actor's obsession that's consuming him. Every character of that unproduced film is a reflection of himself. They're his own emotions, fantasies, addictions("all roads lead to weed") and traumas.
+
+---
+
+A black guy falls in love with a 17y old white stripper. She works in a cheap strip club where strippers don't follow strict rules so basically they're hookers who strip. A young 15y old boy whose father is a nigger(left their family). He lives with his single mother and 3 brothers. His two older brothers are dead. They were killed by police brutality during a protest or smth. His younger brother is 14y old. They go to the strip club when their mom(she's a stripper too.) calls them saying that it's an emergency. It turns out to be nothing that serious. He did some coke and mushrooms in the club and then after that he meets this stripper. Like he's sitting really close to the bench/stage near the pole so yk with those multi colored lights just above her and all that she just looked like an angel from a dreamm. He just falls in love with her and he fucks her that night. She's 17. And then after that...First pregnancy scare from a hooker. And this event leads the story. We'll see the consequences and all that drama.
+
+During that dreamy strip club scene. That girl's deep eye contact in that lighting and especially the low angleeee pov  just works like magic fr😭🫠
+
+>As u said the guy did some substances,
+What if he is just hallucinating and the girl is actually his mom 
+> - Jayant
+
+Tbh The girl is his mom. I was about to write that he gets AIDS because of her mom but I just stopped it there.
+
+That's what her mom said when they both got AIDS 😭🥀
+
+
+---
+
