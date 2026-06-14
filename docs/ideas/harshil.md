@@ -18,3 +18,6 @@ a guy who smokes forgets about the moments when he smokes.
 he becomes all powerful and agreeable when he smokes. 
 his personality splits. he becomes a mafia boss or something. import the previous idea in this, give him the power of becoming agreeable when he smokes. 
 at the end, he tries to make the other personality (the one which smokes) to start smoking vape instead. He immediately loses his powers. Happy end. 
+
+
+now what.
