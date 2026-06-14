@@ -54,4 +54,6 @@ basically used docusaurus to make it easy to browse fmac moms.
 
 if you want to push changes AND update the site. 
 
-`git add . && git commit -m "too lazy to add message" && git push && npm run build && npm run deploy` 
+```bash
+git add . && git commit -m "too lazy to add message" && git push && npm run build && npm run deploy
+``` 
