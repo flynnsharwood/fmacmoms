@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "25 batch/example mom.md",
+                "file": "ideas/adbhinavan malladi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "example mom"
+              "title": "adbhinavan malladi"
+            }
+          },
+          {
+            "id": "5aca6de88da88799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas/archisha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "archisha"
+            }
+          },
+          {
+            "id": "938b646b839336d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas/sid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sid"
+            }
+          },
+          {
+            "id": "26b8fdda20a6a18f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas/harshil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "harshil"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -165,11 +208,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1ade6545013a725",
+  "active": "26b8fdda20a6a18f",
   "lastOpenFiles": [
+    "ideas/sid.md",
+    "ideas/harshil.md",
+    "ideas/archisha.md",
+    "ideas/adbhinavan malladi.md",
+    "25 batch/example mom.md",
+    "ideas/_category_.json",
     "24 batch/_category_.json",
     "23 + 24 + 25 batch/_category_.json",
-    "25 batch/example mom.md",
     "23 + 24 batch/2025-02-09 mom.md",
     "23 + 24 batch/2025-04-18 mom summary.md",
     "23 + 24 batch/2025-06-09 mom.md",
@@ -201,11 +249,6 @@
     "23 + 24 batch/_category_.json",
     "23 + 24 batch",
     "~Archive/supplementary stuff",
-    "24 batch/2025-02-20 mom.md",
-    "24 batch",
-    "5. Publicity ideas compilation.md",
-    "4. Film competitions.md",
-    "3. supplementary stuff",
     "23, 24 batch/one-young-single-man-standing-alone-in-the-middle-of-a-crowded-street_hmtztmxs_thumbnail-1080_08-2111399992.png",
     "Attachments/Pasted image 20250507100030.png",
     "Attachments/Pasted image 20250507095828.png",
